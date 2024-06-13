@@ -34,7 +34,16 @@ GeoFence Analysis with AWS Athena and Folium is a comprehensive data science pro
 ### User Interaction
 - The project incorporates user input for specifying geographic coordinates and radius thresholds, enabling customization of analysis parameters. This interactive approach enhances user experience and facilitates exploratory data analysis.
 
-## OutPut 
+
+## How Code Works
+
+https://github.com/KavinduR0713/Geo-Plotter-IFAs-Visualization-Tool/assets/105490780/41a772f5-df60-4e8e-a78a-3582bbaf612c
+
+## OutPut
+
+### OutPut of the Code 
+
+https://github.com/KavinduR0713/Geo-Plotter-IFAs-Visualization-Tool/assets/105490780/92a34de7-d72b-4712-be8c-1acd70bf22ac
 
 ### 1. National Hospital - Colombo 
 
